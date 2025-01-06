@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sistema\\.nuget\\packages\\": {}
+    "d:\\Users\\angel_garcia3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ANGEL V\\USMP\\PROY 1\\billtons\\billtons.csproj",
+      "projectUniqueName": "D:\\Users\\angel_garcia3\\Desktop\\Nueva carpeta\\PROY1\\PROYECTO-BILLTONS\\billtons\\billtons.csproj",
       "projectName": "billtons",
-      "projectPath": "E:\\ANGEL V\\USMP\\PROY 1\\billtons\\billtons.csproj",
-      "packagesPath": "C:\\Users\\Sistema\\.nuget\\packages\\",
-      "outputPath": "E:\\ANGEL V\\USMP\\PROY 1\\billtons\\obj\\",
+      "projectPath": "D:\\Users\\angel_garcia3\\Desktop\\Nueva carpeta\\PROY1\\PROYECTO-BILLTONS\\billtons\\billtons.csproj",
+      "packagesPath": "d:\\Users\\angel_garcia3\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\angel_garcia3\\Desktop\\Nueva carpeta\\PROY1\\PROYECTO-BILLTONS\\billtons\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sistema\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "d:\\Users\\angel_garcia3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +38,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
